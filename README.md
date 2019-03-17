@@ -5,7 +5,7 @@ hashing algorithm for python
 ## Module setup
 
 ```
-$ git clone https://github.com/Jenova7/nist5_hash
+$ git clone https://github.com/Electra-project/nist5_hash
 
 $ cd nist5_hash
 
